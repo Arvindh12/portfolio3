@@ -18,7 +18,7 @@ img {
     border-radius: 50%;
     border: #fabe28 dotted 4px;
     margin: 0 auto;
-    filter: grayscale(80%);
+    filter: grayscale(50%);
 
 }
 #namehead{
@@ -149,10 +149,11 @@ img {
     }
     #contentright{
         border-left: 0px;
+        padding: 0px 20px 0px 10px ;
     }
     #namebox{
         font-size: x-large;
-        top: 152px;
+        top: 158px;
     }
     #address{
         height: auto;
