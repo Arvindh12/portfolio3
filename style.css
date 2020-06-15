@@ -77,7 +77,7 @@ img {
     padding: 0px 10px 0px 30px ;
    
 }
-.secdiv{
+.secdiv,.secdiv1{
     display: flex;
 }
 .secheading{
@@ -130,7 +130,7 @@ img {
     appearance: none;
     width: 25px;
     height: 25px;
-    border: #6b6b6b solid 2px;
+    border: #a7a6a6 solid 2px;
     border-radius: 50%;
     background: white;
   }
@@ -157,6 +157,9 @@ img {
     }
     #address{
         height: auto;
+    }
+   .secdiv1{
+        display: none;
     }
 
   }
